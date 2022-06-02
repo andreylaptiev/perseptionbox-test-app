@@ -34,7 +34,7 @@ footer, header, hgroup, img, menu, nav, section {
 
 body {
   height: 100%;
-  line-height: 1;
+  line-height: normal;
 }
 
 html {
@@ -83,7 +83,7 @@ a {
 /* end of CSS styles reset */
 
 body {
-  background-image: url('https://wallpaper.dog/large/16992087.png');
+  background-image: url('./assets/images/rick-background.png');
   background-position: center;
   color: #fff;
   font-family: 'OpenSans-Regular', sans-serif;
