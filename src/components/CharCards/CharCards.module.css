@@ -1,0 +1,17 @@
+.cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.charCards {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+}

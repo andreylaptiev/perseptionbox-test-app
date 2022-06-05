@@ -6,7 +6,7 @@ const AppRouter = () => {
   return (
     <Routes>
       <Route path='/' element={<Home />} />
-      <Route path='chars'>
+      <Route path='char'>
         <Route path=':id' element={<CharProfile />} />
       </Route>
     </Routes>

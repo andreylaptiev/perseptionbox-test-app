@@ -83,9 +83,8 @@ a {
 /* end of CSS styles reset */
 
 body {
-  background-image: url('./assets/images/rick-background.png');
-  background-position: center;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   font-family: 'OpenSans-Regular', sans-serif;
   font-size: 1.8rem;
 }

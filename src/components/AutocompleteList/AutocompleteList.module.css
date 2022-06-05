@@ -1,0 +1,26 @@
+.autocompleteList {
+  background-color: #fff;
+  position: absolute;
+  right: 0;
+  top: 30px;
+}
+
+.noSuggestions {
+  color: red;
+  padding: 0.5rem;
+}
+
+.suggestions {
+  border: 1px solid #999;
+  list-style: none;
+  margin-top: 0;
+  max-height: 143px;
+  overflow-y: auto;
+  padding-left: 0;
+  width: 100%;
+
+}
+
+.suggestions li {
+  padding: 0.5rem;
+}

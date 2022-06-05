@@ -3,4 +3,17 @@
   height: 100%;
   margin: auto;
   max-width: 1300px;
+  padding: 20px;
+}
+
+@media (min-width: 576px) {
+  .app {
+    padding: 40px;
+  }
+}
+
+@media (min-width: 1380px) {
+  .app {
+    padding: 40px 0px;
+  }
 }
