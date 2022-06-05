@@ -1,12 +1,14 @@
 import React from 'react';
 import styles from './CharCard.module.css';
 
-const CharCard = ({ charImage, id, name, onClick, status }) => {
+const CharCard = ({ id, name, onClick, status }) => {
+  const image = localStorage.getItem(id);
+
   return (
     <div onClick={onClick} id={id} className={styles.charCard}>
-      {charImage &&
+      {image &&
         <div className={styles.charCard__image}>
-          <img src={charImage} alt="char image" />
+          <img src={image} alt="char image" />
         </div>
       }
       <div className={styles.charCard__info}>
