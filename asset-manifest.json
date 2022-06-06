@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/perseptionbox-test-app/static/css/main.461fdacb.css",
-    "main.js": "/perseptionbox-test-app/static/js/main.2bd8e2bc.js",
+    "main.js": "/perseptionbox-test-app/static/js/main.e962ca4b.js",
     "static/media/OpenSans-Regular.woff2": "/perseptionbox-test-app/static/media/OpenSans-Regular.6fdfc32f958aca18e06f.woff2",
     "static/media/exit-icon.svg": "/perseptionbox-test-app/static/media/exit-icon.2c642ff9b3731fc1863992fbc80f7c73.svg",
     "static/media/add-icon.svg": "/perseptionbox-test-app/static/media/add-icon.e44004f2066f2f75b3d16467865e4586.svg",
     "index.html": "/perseptionbox-test-app/index.html",
     "main.461fdacb.css.map": "/perseptionbox-test-app/static/css/main.461fdacb.css.map",
-    "main.2bd8e2bc.js.map": "/perseptionbox-test-app/static/js/main.2bd8e2bc.js.map"
+    "main.e962ca4b.js.map": "/perseptionbox-test-app/static/js/main.e962ca4b.js.map"
   },
   "entrypoints": [
     "static/css/main.461fdacb.css",
-    "static/js/main.2bd8e2bc.js"
+    "static/js/main.e962ca4b.js"
   ]
 }
