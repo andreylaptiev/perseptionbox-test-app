@@ -34,10 +34,6 @@ const Home = () => {
               <h2 className={styles.title}>Search By Name:</h2>
               <Autocomplete chars={chars} />
             </div>
-            <div className={styles.charNames}>
-              <h2 className={styles.title}>List of all characters:</h2>
-              {chars.map(c => <span key={c.id}>{c.name}, </span>)}
-            </div>
             <CharCards chars={chars} />
           </>
       }
